@@ -3,7 +3,7 @@
 - 🔭 I am currently working in ***Hangzhou, Zhejiang Province, China***.  
 - 👨‍💻 I work as a ***python computer vision development engineer*** from May 2023 🚀.  
 - 💬 Ask me anything about my project.
-- 📫 Contact me at mops_rocket0k@icloud.com
+- 📫 Contact me at cyz-000@qq.com
 
 
 ## My Skill Set  
