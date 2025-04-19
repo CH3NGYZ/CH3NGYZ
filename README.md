@@ -1,5 +1,3 @@
-- 🔭 I am currently working in ***Hangzhou, Zhejiang Province, China***.  
-- 👨‍💻 I work as a ***python computer vision development engineer*** from May 2023 🚀.  
 - 💬 Ask me anything about my project.
 
 ## Github Stats  
